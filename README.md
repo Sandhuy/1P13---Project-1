@@ -1,2 +1,3 @@
 # Integrated Cornerstone Design Project - Project 1
-Programming a robot for motion controls
+## Motion Control ##
+Utilized Python and a Raspberry Pi to program a robot to navigate through an obstacle course. The robot's movement was simulated using Q-Labs, which allowed the robot to interact with the environment and respond to changes. Students had to create a program that would allow the robot to sense and react to the obstacles, and then use the program to make the robot move in the right direction. Students used a variety of techniques, such as pathfinding algorithms, machine learning, and artificial intelligence to create the program. The program was tested in the Q-Labs environment to ensure its accuracy and effectiveness, and then it was implemented in the real world.
